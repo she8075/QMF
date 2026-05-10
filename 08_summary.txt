@@ -1,0 +1,12 @@
+=== Counterfactual Gap Summary (actual - CF, in pp) ===
+
+  2006-2013 (peg era)           : +1.2 pp (CM)  |  +0.3 pp (SVAR)
+  2008-09 (GFC)                 : +12.0 pp (CM)  |  +2.0 pp (SVAR)
+  2014-2015 (devaluation)       : +24.5 pp (CM)  |  +3.4 pp (SVAR)
+  2016-2021 (IT era)            : +2.6 pp (CM)  |  -1.5 pp (SVAR)
+
+=== Methodological Notes ===
+Primary CF: Ciccarelli-Mojon (2010) factor model, lambda=0.683 (2018-2021 window)
+Robustness: SVAR Blanchard-Quah (1989), demand shock substitution, H=24
+VAR estimated: 2006-2021 | PCA fitted: 2006-2019
+Ukraine VAR lags: p=6, EA VAR lags: p=2

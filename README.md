@@ -97,7 +97,7 @@ https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/STS_INPR_M/M.PRD.B
 
 The CM vs SVAR contrast in 2014–2015 (+24.5pp vs +3.4pp) is itself an analytical result: the dominant driver of the inflation spike was the exchange-rate and supply channel, not excess domestic demand, confirmed by the SVAR's supply shock classification.
 
-The SVAR gap of −1.5pp in 2016–2021 is the most analytically rich finding: the NBU ran tighter monetary conditions than any EA member would have experienced under ECB policy (ZLB, QE, TLTRO), building credibility independently at the cost of compressing domestic demand — the Giavazzi-Pagano (1988) mechanism in reverse.
+The SVAR gap of −1.5pp in 2016–2021 is the most analytically rich finding: the NBU ran tighter monetary conditions than any EA member would have experienced under ECB policy (ZLB, QE, TLTRO), building credibility independently at the cost of compressing domestic demand, the Giavazzi-Pagano (1988) mechanism in reverse.
 
 ---
 

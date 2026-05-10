@@ -32,7 +32,7 @@ The counterfactual is consistent with the monetary sovereignty chronology establ
 ├── data/
 │   ├── data_ecb_hicp_panel.csv         # EA HICP panel (ECB, 11 countries, 2000–2025)
 │   ├── data_ukraine_cpi_raw.csv        # Ukraine CPI MoM index (SSSU)
-│   └── ata_ukraine_ipi_imf.csv.zip    # Ukraine IPI (IMF Production Indexes, compressed due to GitHub file size limit, unzip before        │       running the notebook)
+│   └── ata_ukraine_ipi_imf.csv.zip    # Ukraine IPI (IMF Production Indexes, compressed due to GitHub file size limit, unzip before running the notebook)
 └── README.md
 ```
 

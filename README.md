@@ -32,7 +32,7 @@ The counterfactual is consistent with the monetary sovereignty chronology establ
 ├── data/
 │   ├── data_ecb_hicp_panel.csv         # EA HICP panel (ECB, 11 countries, 2000–2025)
 │   ├── data_ukraine_cpi_raw.csv        # Ukraine CPI MoM index (SSSU)
-│   └── ata_ukraine_ipi_imf.csv.zip    # Ukraine IPI (IMF Production Indexes, compressed due to GitHub file size limit — unzip before running the notebook)
+│   └── ata_ukraine_ipi_imf.csv.zip    # Ukraine IPI (IMF Production Indexes, compressed due to GitHub file size limit, unzip before        │       running the notebook)
 └── README.md
 ```
 
@@ -65,7 +65,7 @@ https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/STS_INPR_M/M.PRD.B
 |---|---|---|
 | Ukraine CPI (MoM index) | State Statistics Service of Ukraine (SSSU) via SDMX | Course repository |
 | EA HICP panel (11 countries) | ECB Data Portal | Course repository |
-| Ukraine IPI | IMF Production Indexes | Course repository |
+| Ukraine IPI | IMF Production Indexes | Course repository (provided as `.zip` unzip to `.csv` before running) |
 | Euro Area IPI (EA20, B-D, SCA, 2015=100) | Eurostat STS_INPR_M | Programmatic download |
 | UAH/USD exchange rate | National Bank of Ukraine API | Programmatic download |
 | Henry Hub gas price | FRED — MHHNGSP | Programmatic download |

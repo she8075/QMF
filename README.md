@@ -1,6 +1,6 @@
 # Counterfactual Inflation Analysis: What If Ukraine Had Been Part of the Euro Area?
 
-**Quantitative Methods in Finance — Final Exam 2025–2026**  
+**Quantitative Methods in Finance**  
 **M2 Finance, Technology & Data — Université Paris 1 Panthéon-Sorbonne**  
 **Lecturer:** Eric Vansteenberghe (Banque de France & Paris 1)
 
